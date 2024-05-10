@@ -1,7 +1,7 @@
 <div align="center" backgroundColor="#0088CC"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Better%20github&fontSize=70" />
   <br>
-  <span> 🔥Seek To be better Programer than before 🔥</span>
+  <span> 🔥Seek To be better Programmer than before 🔥</span>
   
   <h1 fontSize="50">Tech-Stack</h2>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
